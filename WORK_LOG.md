@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Niko Madriz
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date        |   Time    |                                                                                                                                                                                                                                                                                                                                                                                                                   Update |
+|:------------|:---------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| September 3 | 8-8:30 PM |                                                                                                                                              I brain stormed some ways to approach this problem. I thought about using a while loop to complete my moves but I was't too sure if it will take too long to execute. I don't think I will worry about that right now as I'm just trying to think of ways to approach this. |
+| September 3 | 8:30-9 PM | I've decided to start by creating functions to find the largest ladder/snake within the arrays provided. I am currently working on that code.                                                                                                                                                                                                                                                                          I |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
